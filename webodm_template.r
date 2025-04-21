@@ -1,10 +1,6 @@
 
-######################################################################
+
 #### TREE SPECIES CLASSIFICATION WITH PHOTOGRAMMETRIC POINT CLOUD ####
-#### UEF ADVANCED REMOTE SENSING COURSE                           ####
-#### Lauri Korhonen 2024                                          #### 
-#### MODEL SOLUTION                                               #### 
-######################################################################
 
 # Clear old stuff from memory  
 rm(list = ls())
